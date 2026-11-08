@@ -1,0 +1,22 @@
+{
+  "wheel_id": 841,
+  "structure": "umbrella",
+  "slug": "poolbuildergoldcoast-157",
+  "project": "concrete-pool-builder-gold-coast-maintenance-ea3445052ed32c225d",
+  "parent_t1_ref": "poolbuildergoldcoast-009",
+  "node_role": "buffer",
+  "money_target": "poolbuildergoldcoast.net.au",
+  "primary_kw": "concrete pool builder gold coast maintenance",
+  "intended_url": "https://sites-e470-2.web.app/concrete-pool-builder-gold-coast-maintenance-ea3445052ed32c225d/",
+  "tier": "T2",
+  "writeback_nonce": "d67dc83ad5f0bcb0",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/concrete-pool-builder-gold-coast-009/",
+      "anchor": "https://cloudsites-hub.pages.dev/sites-01/concrete-pool-builder-gold-coast-009/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
